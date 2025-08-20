@@ -917,7 +917,8 @@ Turning complex algorithms into elegant solutions — let's code something extra
           <div style={styles.profileContent}>
             <div style={styles.profileAvatar}>
               <img 
-                <img src={process.env.PUBLIC_URL + "/ME.jpg"} alt="Me" />
+                <img src="ME.jpg" alt="Me" />
+
 
                 alt="Abdelrhman Ameen" 
                 style={{
